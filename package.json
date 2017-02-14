@@ -1,0 +1,9 @@
+{
+  "name": "zeit-badge-off",
+  "version": "0.0.0",
+  "description": "extension that removes '1' badge from zeit.co/account",
+  "main": "index.js",
+  "repository": "git@github.com:agudulin/zeit-badge-off.git",
+  "author": "Alexander Gudulin <alexandr.gudulin@gmail.com>",
+  "license": "MIT"
+}
