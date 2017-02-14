@@ -1,0 +1,8 @@
+{
+  "name": {
+    "message": "zeit badge off"
+  },
+  "desc": {
+    "message": "removes annoying '1' badge from zeit.co/account"
+  }
+}

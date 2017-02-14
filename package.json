@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "zeit-badge-off",
   "version": "0.0.0",
   "description": "extension that removes '1' badge from zeit.co/account",
